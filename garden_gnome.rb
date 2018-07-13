@@ -1,12 +1,8 @@
 class GardenGnome
 
-  attr_accessor :name , :age , :gluten_allergy
-
-  # def initialize(name)
-  #   @name= name
-  # end
+  attr_accessor :name , :age , :gluten_allergy , :personality
 
 end
 
 gnome = GardenGnome.new
-# puts gnome.name 
+# puts gnome.name
