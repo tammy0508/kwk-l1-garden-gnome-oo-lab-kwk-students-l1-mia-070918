@@ -9,3 +9,4 @@ class GardenGnome
 end
 
 gnome = GardenGnome.new("Joe")
+puts gnome.name 
