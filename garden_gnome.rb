@@ -5,5 +5,5 @@ class GardenGnome
 end
 
 gnome = GardenGnome.new
-# gnome.personality="evil"
+gnome.personality="evil"
 # puts gnome.name
