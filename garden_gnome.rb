@@ -9,5 +9,5 @@ class GardenGnome
 end
 
 gnome = GardenGnome.new
-gnome.name=("joe")
-puts gnome.name 
+gnome.name="joe"
+puts gnome.name
