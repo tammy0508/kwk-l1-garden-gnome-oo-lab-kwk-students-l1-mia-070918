@@ -17,6 +17,11 @@ class GardenGnome
     return "GNARLY!!!"
   end
 
+  def introduce_self
+    return "Hello humans, my name is Frankie the Frightening, I am 324 years old, and you'll rue the day you crossed me!"
+  end
+  
+
 
   #
   # def hat_color
