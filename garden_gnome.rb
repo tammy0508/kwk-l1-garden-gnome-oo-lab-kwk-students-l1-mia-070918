@@ -9,7 +9,7 @@ class GardenGnome
 
   def hat_color
     @hat_color="red"
-  end 
+  end
 end
 
 # gnome = GardenGnome.new
