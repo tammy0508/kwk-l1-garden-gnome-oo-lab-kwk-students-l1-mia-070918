@@ -1,4 +1,3 @@
 class GardenGnome
   
-end 
-
+end
