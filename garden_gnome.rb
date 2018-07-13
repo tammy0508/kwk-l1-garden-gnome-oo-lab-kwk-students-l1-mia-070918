@@ -5,8 +5,7 @@ class GardenGnome
   def initialize(name)
     @name= name
   end
-
-
+  
 end
 
 gnome = GardenGnome.new("Joe")
