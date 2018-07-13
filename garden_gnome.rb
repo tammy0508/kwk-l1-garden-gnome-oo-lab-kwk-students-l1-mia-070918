@@ -5,9 +5,9 @@ class GardenGnome
   #   @name= name
   # end
 
-  def 
+
 end
 
-gnome = GardenGnome.new 
+gnome = GardenGnome.new
 gnome.name=("joe")
 puts gnome.name 
