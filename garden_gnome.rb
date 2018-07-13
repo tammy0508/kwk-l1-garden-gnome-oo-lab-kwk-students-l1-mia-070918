@@ -4,9 +4,9 @@ class GardenGnome
 
   def initialize(personality)
     @personality=personality
-  end 
+  end
 end
 
-gnome = GardenGnome.new
+gnome = GardenGnome.new("evil")
 # gnome.personality="evil"
 # puts gnome.name
