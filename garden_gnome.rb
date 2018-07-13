@@ -1,12 +1,15 @@
 class GardenGnome
 
-  attr_reader :name , :age , :gluten_allergy , :personality , :hat_color
+  attr_reader :name , :age , :gluten_allergy , :personality , 
   attr_writer :name , :age , :gluten_allergy 
 
   def initialize
     @personality="evil"
-    @hat_color= "red"
   end
+
+  def hat_color=(hat_color)
+    @hat_color=hat_color
+  end 
 end
 
 # gnome = GardenGnome.new
