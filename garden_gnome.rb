@@ -7,7 +7,7 @@ class GardenGnome
     @personality="evil"
     @hat_color="red"
   end
-  # 
+  #
   # def hat_color
   #   @hat_color="red"
   # end
