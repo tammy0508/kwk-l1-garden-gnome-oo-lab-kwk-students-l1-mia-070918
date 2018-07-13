@@ -22,4 +22,3 @@ class GardenGnome
   end
 
 end
-
